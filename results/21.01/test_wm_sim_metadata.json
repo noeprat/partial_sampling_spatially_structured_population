@@ -1,0 +1,15 @@
+{
+    "type": "wm_sim",
+    "job_array_nb": 1,
+    "N": 100,
+    "M": [
+        1.0,
+        250.0,
+        500.0,
+        750.0,
+        1000.0
+    ],
+    "log_s_min": -4,
+    "log_s_max": -1,
+    "nb_trajectories": 100
+}
